@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ga_trackingId">UA-81664258-1</string>
+    <bool name="ga_autoActivityTracking">true</bool>
+    <screenName name="dario.mahalambe.xangana.activities.MainActivity">Categorias</screenName>
+    <screenName name="dario.mahalambe.xangana.activities.AprenderActivity">Aprender </screenName>
+    <screenName name="dario.mahalambe.xangana.activities.SobreActivity">Sobre App</screenName>
+    <screenName name="dario.mahalambe.xangana.activities.LearnActivity">Quadro </screenName>
+</resources>

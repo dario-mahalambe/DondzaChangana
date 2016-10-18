@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Dondza Changana</string>
+    <string name="sobre_titulo">Sobre</string>
+    <string name="title_activity_alimentos">AlimentosActivity</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="sobre">Dondza Changana é um aplicativo que permite aos seus usuários aprender a falar e a ler a língua tradicional Changana, através de um método simples e prático baseado em figuras ilustrativas,  audição da pronúncia de todas as palavras descritas, e a visualização do significado na língua portuguesa. </string>
+
+
+    <string name="informacao_tap_pron">Prima na Imagem para ouvir a pronúncia!</string>
+    <string name="feedback">Sugestões/FeedBack via Dondza</string>
+    <string name="denovo_sair">Prima novamente para sair</string>
+    <string name="copyright">\u00a9 2016 Dondza Changana Lincensed.\n Todos direitos reservados</string>
+    <string name="action_info_tap">Dica</string>
+    <string name="licenca">Licenças</string>
+    <string name="programador">Dário Mahalambe</string>
+    <string name="proxima">Proxima</string>
+    <string name="anterior">Anterior</string>
+
+    <string name="open_licences">Licenças</string>
+    <string name="dialog_fechar">Fechar</string>
+
+    <string name="versao">Versão</string>
+
+    <string name="segue_fb">Segue-nos no Facebook</string>
+    <string name="sugestoes">Suas Sugestões</string>
+
+    <string name="termos"> Termos e Políticas de Privacidade</string>
+    <string name="sobre_dondza">Sobre Dondza</string>
+
+
+    <!-- Strings related to Categorias de Palavras -->
+
+    <string name="categoria_nome">Nomes</string>
+    <string name="categoria_objectos">Objectos</string>
+    <string name="categoria_pronomes">Pronomes</string>
+    <string name="categoria_verbos">Verbos</string>
+    <string name="categoria_alimentos">Alimentos</string>
+    <string name="categoria_corpo">Partes do Corpo</string>
+    <string name="categoria_casa">Casa</string>
+    <string name="categoria_natureza">Natureza</string>
+    <string name="categoria_locais">Locais</string>
+    <string name="categoria_animais">Animais</string>
+    <string name="categoria_transporte">Transporte</string>
+    <string name="categoria_outros">Outros</string>
+
+</resources>
